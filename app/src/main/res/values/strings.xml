@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Yong Haw Quan</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_tv">bio_tv</string>
+    <string name="bio">Hi, my name is Yong Haw Quan
+    /n/nI Love Teakwon-do
+    /n/nI Love Swimming
+    /n/nI Love Badminton
+    /n/nI Love Fencing
+    /n/nI Love GYM</string>
+</resources>
